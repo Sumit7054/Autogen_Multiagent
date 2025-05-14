@@ -1,0 +1,11 @@
+autogen
+autogen-agentchat
+autogen-ext[openai]
+streamlit
+pandas
+scikit-learn
+matplotlib
+seaborn
+shap
+lime
+numpy
